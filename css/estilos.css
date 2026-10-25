@@ -55,12 +55,12 @@ body {
 .enlace { 
     display: inline-block; 
     margin-top: 8px; 
-    color: #1456a0; 
+    color: #065ec3; 
     font-weight: bold; 
     text-decoration: none; 
 } 
 .enlace:hover { 
-    color: #00ff1a; 
+    color: #8cff00; 
 } 
  
 /* 5. Pie de página */ 

@@ -414,3 +414,40 @@ textarea:focus-visible {
     padding: 18px;
   }
 }
+<<<<<<< HEAD
+=======
+.tarjeta h2 { 
+    color: #176b73; 
+    margin-top: 0; 
+} 
+ 
+.enlace { 
+    display: inline-block; 
+    margin-top: 8px; 
+    color: #065ec3; 
+    font-weight: bold; 
+    text-decoration: none; 
+} 
+.enlace:hover { 
+    color: #8cff00; 
+} 
+ 
+/* 5. Pie de página */ 
+.pie { 
+    text-align: center; 
+    padding: 18px; 
+    background-color: #dfe8f2; 
+    color: #33465c; 
+} 
+ 
+/* 6. Diseño para pantallas pequeñas */ 
+@media (max-width: 600px) { 
+    .contenedor { 
+        grid-template-columns: 1fr; 
+    } 
+ 
+    .encabezado h1 { 
+        font-size: 1.6rem; 
+    } 
+}
+>>>>>>> 956d4d3eab9aae73dd3b5f912c58973ebf226cdf
